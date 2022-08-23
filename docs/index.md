@@ -21,14 +21,15 @@ Hellênikê is an open-source introduction to ancient Greek. It emphasizes:
 
 ## Status
 
-
-Hellênikê is in early planning stages.  We expect to publish early versions of our course material here in 2021 and 2022, and hope to pilot a full-year course using Hellênikê at Holy Cross in 2022-2023.
+The Hellênikê curriculum is being used in two sections of first-year Greek at the College of the Holy Cross in the 2022-2023 academic year.
+is in early planning stages.
 
 
 
 ## Links
 
 - the [textbook](https://hellenike.github.io/textbook/)
-- other course material
+- other course material:
+    - a [youtube channel](https://www.youtube.com/playlist?list=PLhhpSgbqjgokrwa4HmReaGEptvqURz6Ns) with short videos to accompany the textbook
 - curated texts
 
